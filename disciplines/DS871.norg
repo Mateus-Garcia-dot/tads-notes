@@ -1,0 +1,19 @@
+* index
+
+
+* Ferramentas
+  -- /weka/
+
+* processo
+  --  possui varias fazes
+  --  precisa ter interção humana
+
+* ETL
+  - E - extract
+  - T - transform
+  - L - load
+* Banco de da dados
+  - ETP
+  - OLAP
+  -- PowerBi
+  -- Clickview
